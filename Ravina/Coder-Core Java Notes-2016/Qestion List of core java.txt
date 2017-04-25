@@ -1,0 +1,134 @@
+
+
+Exception
+
+1.what is error and exception.
+2.what happens when exception occure in program.
+3.why java is roboust.
+4.use of default exception handler.
+5.hirarchy of exception class.
+8.checked and uncheked exception with example.
+9.keywords and clauses used in exception handling.
+10.use of try cath final, finally throw,throws.
+11.need of finaly block.
+12.diff if exception is handeled by default handler or if exception handle by catch.
+13.condition of wryting try with multiple catch;
+14.output of print stack tress method.
+15.diff throw and throws.
+16.how to thorw exception explicitly.
+17.diff bet try and throw.
+18.what is user define exception.
+19.condition of define for userdifine exception class.
+20.what is exception prapogation.
+21.chained exception.
+22.execution sequence of following
+ 1)try....finally....2)try catch finally....
+23.if no is devide by zero which exception occr.
+24.why sleep method ,file closing method surrounded by try cath;
+25.when finally will not get exicuted.
+26.what kind of code should be in finally.
+27.diff final and finalize.
+28.what will happen if there is throw statement in catch clouse.
+
+
+Multithreding
+ssibl
+1.diff between process and thread.
+2.what is multiprocessing and multithreading.
+3.how to access currunt executing thread in java.
+4.what is execution entry point of main thread.
+5.what are the properties of thread class.
+6.package of thread class.
+7.which r 3 variables to assign prio
+8.how to pause exicution of thread.
+9.two ways for thread creation and diff between them.
+10.steps to create and exicute the thread.
+11.constructors are used to creation thread using extend thread.
+12.constructors are used to creation thread using runnable.
+13.why runnable is known as functional interface.
+14.thread sinchronization. how it is achived in jva...and which is better way.
+15.use of volitle variable in multithreading.
+16.inter thread communication.
+17.methods use to achive communication.
+18.diff bet sleep and wait.
+19.diff between sleep n join.
+20 diff bet wait n join.
+21.use of is alive.
+22.what happens if u r starting a same thread two times.
+23.what happens if u explicitly call run method without calling start method.
+24.excution entry point of child thread.
+25.what is deadlock.
+26.what is description of thread object.
+27.bydefault priority of main thread.
+28.bydefault priority of child thread.
+29.how to change thread group of the thread.
+30.what happens if u call notify for a thread who is not in waiting state.
+
+
+
+
+Filehandling.....
+
+1.types of streams.
+2.files are bydefault....oriented.
+3.classes which handels byte streams.
+4.how to open file in read mode to handle byete stream.
+5.how to open file in write and append mode.
+6.diff forms of read method.
+7.diffrant overloaded form of write method.
+8.which are classes to handle charecter streams.
+9.ans  above question for charecter stream. (q no.4,5,6,7).
+10.how to detect end of the file.
+11.use of method Available and skeep methods.
+
+
+Object serialization
+
+
+1.difine Object serialization.
+2.need .
+3.which marker inter face is needed to do object serialization.
+4.steps to serialize and deserialize objects.
+5.why serializable interface is known as marker interface.
+6.which methods are used to serialize and desrialize objects.
+7.which r the serialization methods.
+8.read and write objects methos r of which class.
+9.what happens if we try to write state of nonserialized object.
+10.what happens if serialized object reffers non serialized object n we r writing state.
+
+
+Collection......
+1.why we need collection framework.
+2.write down collection and map hirarchy.
+3.solid line for interfaces.
+4.properties of list,set,queue,dequeue,map,sorted map,sorted set.
+5.Arraylist and linked list diff.
+6.diff of arraylist n vector.
+7.diff bet sorted set and sorted map.
+8.proprty of map.
+9.diff between iterator,list iterator and enumarator.
+10.diff between iterator and enhance for.
+11.why to make collection generic.
+12.diff between collection and collections.
+13.how to shuffle arraylist elements.
+14. which algo is to serch elements from tree set.
+15.diff between comparable and comparatore.
+16.applictions for map interface.
+
+Sql.
+1.ddl and dml
+2.delete drop truncate diff.
+
+jdbc
+
+1.explan Class.forname.
+2.which package is neede in java in sql connections.
+3.diff between exicute query,exicute update.
+4.types of statements.
+
+
+
+
+
+
+
